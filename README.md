@@ -17,6 +17,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegodfather911&show_icons=true&bg_color=000000&locale=en&text_color=328406&layout=compact" alt="thegodfather911" /></p>
 
 
+
+
+
+
 🌐 Life Snapshot
 
 - Languages Spoken: 
