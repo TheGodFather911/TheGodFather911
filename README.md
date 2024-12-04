@@ -1,6 +1,7 @@
 📬 Contact Me
 
 - Telegram : [My Telegram](https://t.me/UrMoMlVr0099)
+- Instagram : [My Instagram](https://www.instagram.com/mah.jfr9/)
 - Discord  : urmomlvr911
 
 🌐 Life Snapshot
