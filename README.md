@@ -1,8 +1,21 @@
-📬 Contact Me
+<h1 align="center">Hi ??, I'm Urmomlvr</h1>
+<h3 align="center">A passionate Full Stack Developer From Morocco</h3>
 
-- Telegram : [My Telegram](https://t.me/UrMoMlVr0099)
-- Instagram : [My Instagram](https://www.instagram.com/mah.jfr9/)
-- Discord  : urmomlvr911
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thegodfather911&label=Profile%20views&color=0e75b6&style=flat" alt="thegodfather911" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegodfather911" alt="thegodfather911" /></a> </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/mah.jfr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mah.jfr9" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/yr2GPt7sxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yr2GPt7sxn" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegodfather911&show_icons=true&text_color=328406&bg_color=000000&hide_border=true&locale=en" alt="thegodfather911" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegodfather911&show_icons=true&bg_color=000000&locale=en&text_color=328406&layout=compact" alt="thegodfather911" /></p>
+
 
 🌐 Life Snapshot
 
