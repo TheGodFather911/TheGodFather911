@@ -30,11 +30,11 @@
     - HTML & CSS
     - GO
     - JavaScript
-    - Rust
   - Intermediate:
     - C++
   - Learning:
     - Assembly
+    - Rust
 
 🛠️ Specialties
 - Hacking
