@@ -71,7 +71,6 @@
   - CyberKit (Multi Hacking Tool For Kali Linux)
 
 
-<p>&nbsp;<img align="center" src="<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGodFather911&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="thegodfather911" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGodFather911&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="thegodfather911" /></p>
 
