@@ -4,6 +4,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheGodFather911&theme=dracula" alt="thegodfather911" /></a> </p>
 
+<div style="display: flex; gap: 10px; align-items: flex-start; flex-wrap: nowrap; max-width: 100%; overflow-x: auto;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TheGodFather911&theme=dracula&show_icons=true&hide_border=true&count_private=true"
+    alt="thegodfather911"
+    style="max-height: 300px; width: auto; max-width: 48%;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGodFather911&theme=dracula&show_icons=true&hide_border=true&layout=compact"
+    alt="thegodfather911's Top Languages"
+    style="max-height: 300px; width: auto; max-width: 48%;"
+  />
+</div>
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/mah.jfr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mah.jfr9" height="30" width="40" /></a>
@@ -71,8 +90,4 @@
   - CyberKit (Multi Hacking Tool For Kali Linux)
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGodFather911&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="thegodfather911" /></p>
-
-![thegodfather911's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGodFather911&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
