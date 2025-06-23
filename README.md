@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer From Morocco</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=thegodfather911](https://github-profile-trophy.vercel.app/?username=TheGodFather911&theme=dracula)" alt="thegodfather911" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegodfather911" alt="thegodfather911" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
