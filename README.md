@@ -74,4 +74,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGodFather911&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="thegodfather911" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegodfather911&show_icons=true&bg_color=000000&locale=en&text_color=328406&layout=compact" alt="thegodfather911" /></p>
+<p><img align="left" src="![TheGodFather911's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGodFather911&theme=dracula&show_icons=true&hide_border=true&layout=compact)" alt="thegodfather911" /></p>
