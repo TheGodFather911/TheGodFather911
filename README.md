@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheGodFather911&theme=dracula" alt="thegodfather911" /></a> </p>
 
-![TheGodFather911's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheGodFather911&theme=dracula&hide_border=true)
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheGodFather911&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 <div style="display: flex; gap: 10px; align-items: flex-start; flex-wrap: nowrap; max-width: 100%; overflow-x: auto;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=TheGodFather911&theme=dracula&show_icons=true&hide_border=true&count_private=true"
