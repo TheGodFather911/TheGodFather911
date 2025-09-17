@@ -46,6 +46,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img 
+  src="https://raw.githubusercontent.com/TheGodFather911/TheGodFather911/refs/heads/main/github-user-contribution.svg" 
+  alt="Snake animation" 
+  width="2000" />
+
+
 
 ###
